@@ -1,0 +1,28 @@
+.stat {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: white;
+}
+
+.good,
+.bad,
+.neutral {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: white;
+    font-weight: 700;
+}
+
+.total {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: blueviolet;
+    font-weight: 700;
+}
+
+.positive {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: blueviolet;
+    font-weight: 700;
+}

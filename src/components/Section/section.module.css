@@ -1,0 +1,19 @@
+.page {
+    width: 344px;
+    height: 428px;
+    border: 1px solid black;
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/18/30/nice-blue-ice-polygonal-background-vector-3101830.jpg");
+}
+
+.content {
+    text-align: center;
+}
+
+.pageTitle {
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
